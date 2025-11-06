@@ -1,12 +1,41 @@
-# React + Vite
+# ⚛️ Custom-Hook
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto demuestra la creación y uso de un **custom hook** en React para manejar estados y lógica reutilizable dentro de componentes funcionales.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Descripción
 
-## Expanding the ESLint configuration
+El objetivo principal de este proyecto es comprender cómo funcionan los *hooks personalizados* (**Custom Hooks**) en React, y cómo pueden ayudar a separar la lógica del estado del renderizado de los componentes.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fue creado con **Vite**, **React** y configurado con **ESLint** para mantener buenas prácticas en el desarrollo.
+
+---
+
+## 🧩 Tecnologías utilizadas
+
+- ⚛️ **React** — Biblioteca principal para la interfaz.
+- ⚡ **Vite** — Entorno de desarrollo rápido.
+- 🧹 **ESLint** — Estándares de código.
+- 🖋️ **JavaScript (ES6+)**
+- 🧱 **HTML5 / CSS3**
+- 📜 **Licencia GPL-3.0**
+
+---
+
+## 🚀 Instalación y ejecución
+
+Sigue los pasos para ejecutar el proyecto en tu entorno local:
+
+```bash
+# 1️⃣ Clonar el repositorio
+git clone https://github.com/UrbanoTrejoOrlando/Custom-Hook.git
+
+# 2️⃣ Entrar al directorio del proyecto
+cd Custom-Hook
+
+# 3️⃣ Instalar dependencias
+npm install
+
+# 4️⃣ Ejecutar el servidor de desarrollo
+npm run dev
